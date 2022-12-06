@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!-- you can remove this ( <NuxtWelcome/> ) component -->
     <NuxtWelcome />
   </div>
 </template>
